@@ -51,7 +51,7 @@
   <a href="https://www.linkedin.com/in/daniel-borazo-de-moura-b4a995356/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/derick_profissional">
+  <a href="">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/DanielBMoura">
@@ -60,7 +60,7 @@
   <a href="mailto:dborazo.moura@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://api.whatsapp.com/send/?phone=5511932050933&text=Fale+conosco&type=phone_number&app_absent=0">
+  <a href="https://api.whatsapp.com/send/?phone=5511932050933&type=phone_number&app_absent=0">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
